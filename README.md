@@ -36,12 +36,3 @@ This project was developed as part of a guided learning experience. It served as
 
 * [xyz]
 
-**Future Improvements:**
-
-* Implement more advanced search functionality.
-* Add user authentication and favorites.
-* Improve styling.
-
-**Acknowledgments:**
-
-* Thanks to the resources that provided the guided learning for this project.
